@@ -1,0 +1,12 @@
+/Users/tech/Desktop/C_sharp/Chapter1_1/bin/Debug/netcoreapp3.1/Chapter1_1.deps.json
+/Users/tech/Desktop/C_sharp/Chapter1_1/bin/Debug/netcoreapp3.1/Chapter1_1.runtimeconfig.json
+/Users/tech/Desktop/C_sharp/Chapter1_1/bin/Debug/netcoreapp3.1/Chapter1_1.runtimeconfig.dev.json
+/Users/tech/Desktop/C_sharp/Chapter1_1/bin/Debug/netcoreapp3.1/Chapter1_1.dll
+/Users/tech/Desktop/C_sharp/Chapter1_1/bin/Debug/netcoreapp3.1/Chapter1_1.pdb
+/Users/tech/Desktop/C_sharp/Chapter1_1/obj/Debug/netcoreapp3.1/Chapter1_1.csprojAssemblyReference.cache
+/Users/tech/Desktop/C_sharp/Chapter1_1/obj/Debug/netcoreapp3.1/Chapter1_1.AssemblyInfoInputs.cache
+/Users/tech/Desktop/C_sharp/Chapter1_1/obj/Debug/netcoreapp3.1/Chapter1_1.AssemblyInfo.cs
+/Users/tech/Desktop/C_sharp/Chapter1_1/obj/Debug/netcoreapp3.1/Chapter1_1.csproj.CoreCompileInputs.cache
+/Users/tech/Desktop/C_sharp/Chapter1_1/obj/Debug/netcoreapp3.1/Chapter1_1.dll
+/Users/tech/Desktop/C_sharp/Chapter1_1/obj/Debug/netcoreapp3.1/Chapter1_1.pdb
+/Users/tech/Desktop/C_sharp/Chapter1_1/obj/Debug/netcoreapp3.1/Chapter1_1.genruntimeconfig.cache
