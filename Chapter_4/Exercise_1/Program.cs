@@ -8,7 +8,7 @@ namespace Exercise_1
         {
             var a = new YearMonth(2020, 7);
             Console.WriteLine(a.Is21Century());
-            var b =  a.AddOneMonth();
+            var b = a.AddOneMonth();
             Console.WriteLine(b.ToString());
         }
 
