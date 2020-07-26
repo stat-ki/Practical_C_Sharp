@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEmployee xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Exercise_1">
+  <Employee>
+    <HireDate>2001-05-10T00:00:00</HireDate>
+    <Id>123</Id>
+    <Name>出井 秀行</Name>
+  </Employee>
+  <Employee>
+    <HireDate>2004-12-01T00:00:00</HireDate>
+    <Id>139</Id>
+    <Name>大橋 孝仁</Name>
+  </Employee>
+</ArrayOfEmployee>
